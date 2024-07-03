@@ -1,0 +1,688 @@
+[
+  {
+    "responsable": "Jaume Bauzá Mayol",
+    "total": 3617.0900000000006,
+    "gastos": {
+      "Dinar": 3470.5900000000006,
+      "Aparcament": 104.1,
+      "Berenar": 42.400000000000006
+    }
+  },
+  {
+    "responsable": "Antoni Costa Costa",
+    "total": 2046.7400000000005,
+    "gastos": {
+      "Berenar": 173.31,
+      "Dinar": 1873.4300000000003
+    }
+  },
+  {
+    "responsable": "Mateu Coll Mir",
+    "total": 1696.3000000000002,
+    "gastos": {
+      "Dinar": 1696.3000000000002
+    }
+  },
+  {
+    "responsable": "Margalida Prohens Rigo",
+    "total": 1576.1300000000003,
+    "gastos": {
+      "Berenar": 850.0800000000003,
+      "Sopar": 116.99,
+      "Dinar": 609.0600000000001
+    }
+  },
+  {
+    "responsable": "Manuela García Romero",
+    "total": 1448.15,
+    "gastos": {
+      "Berenar": 319.01,
+      "Sopar": 46.1,
+      "Dinar": 596.46,
+      "Altres": 453.58,
+      "Taxi": 33
+    }
+  },
+  {
+    "responsable": "Antoni Vera Alemany",
+    "total": 1432.2100000000003,
+    "gastos": {
+      "Dinar": 1211.25,
+      "Aparcament": 9.35,
+      "Taxi": 19.11,
+      "Altres": 192.5
+    }
+  },
+  {
+    "responsable": "Bartolomé Llabrés Salom",
+    "total": 1371.05,
+    "gastos": {
+      "Dinar": 1371.05
+    }
+  },
+  {
+    "responsable": "José Francisco Reynés Sancho",
+    "total": 1173.48,
+    "gastos": {
+      "Aparcament": 332.9600000000001,
+      "Altres": 698.0699999999999,
+      "Dinar": 82.45,
+      "Taxi": 60
+    }
+  },
+  {
+    "responsable": "Joan Simonet Pons",
+    "total": 931.3999999999999,
+    "gastos": {
+      "Dinar": 919.0999999999999,
+      "Berenar": 12.3
+    }
+  },
+  {
+    "responsable": "Mateu Ferrer Serra",
+    "total": 747.8399999999999,
+    "gastos": {
+      "Altres": 143.19,
+      "Dinar": 491.4,
+      "Taxi": 46.800000000000004,
+      "Aparcament": 66.45
+    }
+  },
+  {
+    "responsable": "Alfons Gómez Rosselló",
+    "total": 706.45,
+    "gastos": {
+      "Aparcament": 53.65,
+      "Dinar": 643.3,
+      "Berenar": 9.5
+    }
+  },
+  {
+    "responsable": "Llorenç Perelló Rosselló",
+    "total": 625.9,
+    "gastos": {
+      "Aparcament": 180.5,
+      "Sopar": 18.2,
+      "Taxi": 7.35,
+      "Dinar": 419.85
+    }
+  },
+  {
+    "responsable": "Bartolomé Riera Tarongí",
+    "total": 612.7500000000001,
+    "gastos": {
+      "Dinar": 313.75,
+      "Taxi": 123.35,
+      "Sopar": 150,
+      "Aparcament": 25.65
+    }
+  },
+  {
+    "responsable": "María Ester Colom Paglialonga",
+    "total": 582.39,
+    "gastos": {
+      "Aparcament": 16.85,
+      "Dinar": 565.54
+    }
+  },
+  {
+    "responsable": "Alejandro Sáenz de San Pedro García",
+    "total": 521.9399999999999,
+    "gastos": {
+      "Dinar": 521.9399999999999
+    }
+  },
+  {
+    "responsable": "Jaime Carbonell Flexas",
+    "total": 514.45,
+    "gastos": {
+      "Dinar": 514.45
+    }
+  },
+  {
+    "responsable": "Miquel Àngel Parera Salvà",
+    "total": 484.96000000000004,
+    "gastos": {
+      "Aparcament": 105,
+      "Taxi": 150.36,
+      "Dinar": 229.6
+    }
+  },
+  {
+    "responsable": "Pedro Juan Planas Mulet",
+    "total": 452.8,
+    "gastos": {
+      "Dinar": 239.1,
+      "Aparcament": 84.45,
+      "Sopar": 36.5,
+      "Taxi": 92.75
+    }
+  },
+  {
+    "responsable": "Antonia Maria Estarellas Torrens",
+    "total": 449.21,
+    "gastos": {
+      "Dinar": 449.21
+    }
+  },
+  {
+    "responsable": "Catalina Maria Salom Niell",
+    "total": 448.74,
+    "gastos": {
+      "Dinar": 354.8,
+      "Berenar": 78.34,
+      "Aparcament": 6,
+      "Altres": 9.6
+    }
+  },
+  {
+    "responsable": "José Aloy Pons",
+    "total": 433.84999999999997,
+    "gastos": {
+      "Dinar": 224.8,
+      "Taxi": 140.9,
+      "Berenar": 9.15,
+      "Aparcament": 59
+    }
+  },
+  {
+    "responsable": "Alejandra Marqués Rotger",
+    "total": 412.9900000000002,
+    "gastos": {
+      "Quilometratge cotxe": 382.9900000000002,
+      "Dinar": 30
+    }
+  },
+  {
+    "responsable": "Juan Manuel Lafuente Mir",
+    "total": 375.06,
+    "gastos": {
+      "Dinar": 359.65,
+      "Taxi": 15.41
+    }
+  },
+  {
+    "responsable": "Catalina Ferrer Bover",
+    "total": 373.85,
+    "gastos": {
+      "Dinar": 373.85
+    }
+  },
+  {
+    "responsable": "Marta Vidal Crespo",
+    "total": 305.37,
+    "gastos": {
+      "Aparcament": 145.35,
+      "Taxi": 133.76999999999998,
+      "Dinar": 26.25
+    }
+  },
+  {
+    "responsable": "José Ramón Orta Rotger",
+    "total": 305.1,
+    "gastos": {
+      "Berenar": 20.1,
+      "Dinar": 285
+    }
+  },
+  {
+    "responsable": "Marc Alvarez Gelabert",
+    "total": 300.84000000000003,
+    "gastos": {
+      "Dinar": 257.85,
+      "Aparcament": 11.25,
+      "Altres": 31.74
+    }
+  },
+  {
+    "responsable": "Juan Álvarez Rodríguez",
+    "total": 294.81,
+    "gastos": {
+      "Quilometratge cotxe": 294.81
+    }
+  },
+  {
+    "responsable": "Roberto Maria Cayuela Rexach",
+    "total": 279.77000000000004,
+    "gastos": {
+      "Taxi": 17.55,
+      "Aparcament": 31.099999999999998,
+      "Dinar": 125,
+      "Quilometratge cotxe": 106.12
+    }
+  },
+  {
+    "responsable": "Ana Torres Riera",
+    "total": 264.15,
+    "gastos": {
+      "Dinar": 264.15
+    }
+  },
+  {
+    "responsable": "Gabriel Ferrà Mir",
+    "total": 233.2,
+    "gastos": {
+      "Dinar": 233.2
+    }
+  },
+  {
+    "responsable": "Antoni Mesquida Bauza",
+    "total": 222.90000000000003,
+    "gastos": {
+      "Aparcament": 193.80000000000004,
+      "Taxi": 29.1
+    }
+  },
+  {
+    "responsable": "Alejandro Jurado García",
+    "total": 191.5,
+    "gastos": {
+      "Dinar": 191.5
+    }
+  },
+  {
+    "responsable": "Silvia Delgado Carballar",
+    "total": 188.60000000000002,
+    "gastos": {
+      "Dinar": 113.75,
+      "Aparcament": 54.80000000000001,
+      "Taxi": 20.05
+    }
+  },
+  {
+    "responsable": "Joan Josep Coll Bibiloni",
+    "total": 176,
+    "gastos": {
+      "Dinar": 176
+    }
+  },
+  {
+    "responsable": "Emeterio Moles Moles",
+    "total": 163.35,
+    "gastos": {
+      "Dinar": 145.15,
+      "Berenar": 18.2
+    }
+  },
+  {
+    "responsable": "Mar Comín Oliver",
+    "total": 145.5,
+    "gastos": {
+      "Dinar": 145.5
+    }
+  },
+  {
+    "responsable": "José Antonio Caldés Capelo",
+    "total": 144.35,
+    "gastos": {
+      "Aparcament": 139.14999999999998,
+      "Taxi": 5.2
+    }
+  },
+  {
+    "responsable": "Sergi Camacho Clavijo",
+    "total": 138.79999999999998,
+    "gastos": {
+      "Aparcament": 12.950000000000001,
+      "Sopar": 94.3,
+      "Taxi": 18.05,
+      "Dinar": 13.5
+    }
+  },
+  {
+    "responsable": "Sebastián González Cardalliaguet",
+    "total": 127.05,
+    "gastos": {
+      "Aparcament": 127.05
+    }
+  },
+  {
+    "responsable": "Maria Isabel Sáez Sastre",
+    "total": 116.39999999999999,
+    "gastos": {
+      "Dinar": 116.39999999999999
+    }
+  },
+  {
+    "responsable": "Elena García Gómez",
+    "total": 113.89999999999999,
+    "gastos": {
+      "Dinar": 98,
+      "Aparcament": 15.899999999999999
+    }
+  },
+  {
+    "responsable": "Juan Antonio Serra Ferrer",
+    "total": 111.96,
+    "gastos": {
+      "Aparcament": 49.8,
+      "Quilometratge cotxe": 62.16
+    }
+  },
+  {
+    "responsable": "María Violeta Rodríguez Martínez",
+    "total": 93.35,
+    "gastos": {
+      "Aparcament": 93.35
+    }
+  },
+  {
+    "responsable": "Catalina Barceló Horrach",
+    "total": 91.5,
+    "gastos": {
+      "Aparcament": 91.5
+    }
+  },
+  {
+    "responsable": "Sebastian Sureda Mas",
+    "total": 88.65,
+    "gastos": {
+      "Aparcament": 73.00000000000001,
+      "Dinar": 15.65
+    }
+  },
+  {
+    "responsable": "Miquel Cardona Pons",
+    "total": 88.1,
+    "gastos": {
+      "Aparcament": 88.1
+    }
+  },
+  {
+    "responsable": "Salvador Ruiz Borràs",
+    "total": 81.5,
+    "gastos": {
+      "Altres": 76,
+      "Aparcament": 5.5
+    }
+  },
+  {
+    "responsable": "Ricarda Margarita Vicens Schluhe",
+    "total": 81.1,
+    "gastos": {
+      "Taxi": 50.7,
+      "Aparcament": 30.4
+    }
+  },
+  {
+    "responsable": "Fernando Fernández Such",
+    "total": 79.05,
+    "gastos": {
+      "Dinar": 79.05
+    }
+  },
+  {
+    "responsable": "Beatriz Estopiñán González",
+    "total": 73.1,
+    "gastos": {
+      "Dinar": 62.5,
+      "Aparcament": 10.6
+    }
+  },
+  {
+    "responsable": "Sebastián Massanet Massanet",
+    "total": 68.47000000000001,
+    "gastos": {
+      "Aparcament": 52.75,
+      "Trajecte cotxe": 15.72
+    }
+  },
+  {
+    "responsable": "Antoni Crespí Costa",
+    "total": 65.89999999999999,
+    "gastos": {
+      "Aparcament": 30.3,
+      "Dinar": 27,
+      "Berenar": 8.6
+    }
+  },
+  {
+    "responsable": "Santiago Mascaró Cardona",
+    "total": 65.25,
+    "gastos": {
+      "Aparcament": 43.949999999999996,
+      "Dinar": 21.3
+    }
+  },
+  {
+    "responsable": "Pedro Vidal Monserrat",
+    "total": 58.1,
+    "gastos": {
+      "Taxi": 58.1
+    }
+  },
+  {
+    "responsable": "Tomás Amer Estarellas",
+    "total": 57.15,
+    "gastos": {
+      "Aparcament": 40.4,
+      "Taxi": 16.75
+    }
+  },
+  {
+    "responsable": "Francisco Ferrer Tur",
+    "total": 56.45,
+    "gastos": {
+      "Taxi": 56.45
+    }
+  },
+  {
+    "responsable": "Maria Antònia Horrach Roca",
+    "total": 51.4,
+    "gastos": {
+      "Dinar": 51.4
+    }
+  },
+  {
+    "responsable": "Francisco José Villalonga Cañellas",
+    "total": 51.15,
+    "gastos": {
+      "Dinar": 51.15
+    }
+  },
+  {
+    "responsable": "Catalina Jiménez Aleñar",
+    "total": 49.55,
+    "gastos": {
+      "Taxi": 29.4,
+      "Dinar": 14.95,
+      "Aparcament": 5.2
+    }
+  },
+  {
+    "responsable": "Vanessa Cursach Far",
+    "total": 47.300000000000004,
+    "gastos": {
+      "Aparcament": 47.300000000000004
+    }
+  },
+  {
+    "responsable": "Ingrid Liliana de la Fuente Loof",
+    "total": 46.75,
+    "gastos": {
+      "Aparcament": 14.399999999999999,
+      "Dinar": 16.25,
+      "Taxi": 16.1
+    }
+  },
+  {
+    "responsable": "Maria Isabel Salas Sánchez",
+    "total": 43.59,
+    "gastos": {
+      "Trajecte cotxe": 26.490000000000002,
+      "Berenar": 17.1
+    }
+  },
+  {
+    "responsable": "María Paz Andrade Barberá",
+    "total": 43.199999999999996,
+    "gastos": {
+      "Aparcament": 43.199999999999996
+    }
+  },
+  {
+    "responsable": "Margarita Mayans Rosselló",
+    "total": 40.3,
+    "gastos": {
+      "Aparcament": 3.7,
+      "Dinar": 36.599999999999994
+    }
+  },
+  {
+    "responsable": "Gerardo Torrente Cuevas",
+    "total": 39.95,
+    "gastos": {
+      "Dinar": 39.95
+    }
+  },
+  {
+    "responsable": "Maria Esperanza Nadal Bauzà",
+    "total": 37.45,
+    "gastos": {
+      "Aparcament": 23.65,
+      "Taxi": 13.8
+    }
+  },
+  {
+    "responsable": "Cristina Suárez Suero",
+    "total": 36.77,
+    "gastos": {
+      "Altres": 36.77
+    }
+  },
+  {
+    "responsable": "Cristina Martínez Mateu",
+    "total": 30.1,
+    "gastos": {
+      "Aparcament": 30.1
+    }
+  },
+  {
+    "responsable": "Maria Puigros Estelrich",
+    "total": 25.6,
+    "gastos": {
+      "Aparcament": 25.6
+    }
+  },
+  {
+    "responsable": "Mateo Suñer Servera",
+    "total": 23.3,
+    "gastos": {
+      "Aparcament": 23.3
+    }
+  },
+  {
+    "responsable": "Cristina Granados Ulecia",
+    "total": 23.25,
+    "gastos": {
+      "Taxi": 23.25
+    }
+  },
+  {
+    "responsable": "Eloy Villalba Ballesteros",
+    "total": 23,
+    "gastos": {
+      "Aparcament": 23
+    }
+  },
+  {
+    "responsable": "Joan Llabrés Enseñat",
+    "total": 15.700000000000001,
+    "gastos": {
+      "Aparcament": 2.9,
+      "Dinar": 12.8
+    }
+  },
+  {
+    "responsable": "José Falcó Pérez",
+    "total": 12.65,
+    "gastos": {
+      "Taxi": 12.65
+    }
+  },
+  {
+    "responsable": "Carlos Simarro Vicens",
+    "total": 12.6,
+    "gastos": {
+      "Dinar": 12.6
+    }
+  },
+  {
+    "responsable": "Vanesa Sánchez Pedreño",
+    "total": 10.8,
+    "gastos": {
+      "Dinar": 10.8
+    }
+  },
+  {
+    "responsable": "Juan Simonet Borràs",
+    "total": 10.35,
+    "gastos": {
+      "Aparcament": 10.35
+    }
+  },
+  {
+    "responsable": "Francisca Ramis Pons",
+    "total": 10,
+    "gastos": {
+      "Taxi": 10
+    }
+  },
+  {
+    "responsable": "Daniel Barjacoba Bennàsar",
+    "total": 9.75,
+    "gastos": {
+      "Aparcament": 9.75
+    }
+  },
+  {
+    "responsable": "María Lorena del Valle Alonso",
+    "total": 8.55,
+    "gastos": {
+      "Taxi": 5.3,
+      "Aparcament": 3.25
+    }
+  },
+  {
+    "responsable": "Joan Carles Martorell",
+    "total": 7.85,
+    "gastos": {
+      "Aparcament": 7.85
+    }
+  },
+  {
+    "responsable": "María Esperanza Reverte Lorenzo",
+    "total": 6.85,
+    "gastos": {
+      "Taxi": 6.85
+    }
+  },
+  {
+    "responsable": "Antonio Luis Alcover Casasnovas",
+    "total": 6.8,
+    "gastos": {
+      "Aparcament": 6.8
+    }
+  },
+  {
+    "responsable": "Antoni María Grau Jofre",
+    "total": 5.4,
+    "gastos": {
+      "Aparcament": 5.4
+    }
+  },
+  {
+    "responsable": "Sira Fiz Vozmediano",
+    "total": 2.65,
+    "gastos": {
+      "Aparcament": 2.65
+    }
+  },
+  {
+    "responsable": "Catalina Teresa Cabrer González",
+    "total": 1.6,
+    "gastos": {
+      "Aparcament": 1.6
+    }
+  }
+]

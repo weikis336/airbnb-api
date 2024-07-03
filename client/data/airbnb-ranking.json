@@ -1,0 +1,380 @@
+[
+  {
+    "town": "Pollenca",
+    "stablishments": 2608,
+    "places": 12174,
+    "percentatgePlaces": "17.46",
+    "placesByStablishments": "4.67"
+  },
+  {
+    "town": "Alcudia",
+    "stablishments": 1613,
+    "places": 6969,
+    "percentatgePlaces": "9.99",
+    "placesByStablishments": "4.32"
+  },
+  {
+    "town": "Santanyi",
+    "stablishments": 1010,
+    "places": 4369,
+    "percentatgePlaces": "6.27",
+    "placesByStablishments": "4.33"
+  },
+  {
+    "town": "Palma de Mallorca",
+    "stablishments": 1540,
+    "places": 4031,
+    "percentatgePlaces": "5.78",
+    "placesByStablishments": "2.62"
+  },
+  {
+    "town": "Manacor",
+    "stablishments": 793,
+    "places": 3462,
+    "percentatgePlaces": "4.96",
+    "placesByStablishments": "4.37"
+  },
+  {
+    "town": "Felanitx",
+    "stablishments": 689,
+    "places": 3343,
+    "percentatgePlaces": "4.79",
+    "placesByStablishments": "4.85"
+  },
+  {
+    "town": "Santa Margalida",
+    "stablishments": 699,
+    "places": 3048,
+    "percentatgePlaces": "4.37",
+    "placesByStablishments": "4.36"
+  },
+  {
+    "town": "Llucmajor",
+    "stablishments": 603,
+    "places": 2488,
+    "percentatgePlaces": "3.57",
+    "placesByStablishments": "4.13"
+  },
+  {
+    "town": "Campos",
+    "stablishments": 507,
+    "places": 2421,
+    "percentatgePlaces": "3.47",
+    "placesByStablishments": "4.78"
+  },
+  {
+    "town": "Capdepera",
+    "stablishments": 534,
+    "places": 2059,
+    "percentatgePlaces": "2.95",
+    "placesByStablishments": "3.86"
+  },
+  {
+    "town": "Calvia",
+    "stablishments": 537,
+    "places": 2039,
+    "percentatgePlaces": "2.92",
+    "placesByStablishments": "3.80"
+  },
+  {
+    "town": "Muro",
+    "stablishments": 374,
+    "places": 1799,
+    "percentatgePlaces": "2.58",
+    "placesByStablishments": "4.81"
+  },
+  {
+    "town": "Soller",
+    "stablishments": 500,
+    "places": 1646,
+    "percentatgePlaces": "2.36",
+    "placesByStablishments": "3.29"
+  },
+  {
+    "town": "Arta",
+    "stablishments": 340,
+    "places": 1446,
+    "percentatgePlaces": "2.07",
+    "placesByStablishments": "4.25"
+  },
+  {
+    "town": "Sant Llorenc des Cardassar",
+    "stablishments": 300,
+    "places": 1316,
+    "percentatgePlaces": "1.89",
+    "placesByStablishments": "4.39"
+  },
+  {
+    "town": "Sa Pobla",
+    "stablishments": 289,
+    "places": 1238,
+    "percentatgePlaces": "1.78",
+    "placesByStablishments": "4.28"
+  },
+  {
+    "town": "Son Servera",
+    "stablishments": 276,
+    "places": 1234,
+    "percentatgePlaces": "1.77",
+    "placesByStablishments": "4.47"
+  },
+  {
+    "town": "Selva",
+    "stablishments": 271,
+    "places": 1154,
+    "percentatgePlaces": "1.65",
+    "placesByStablishments": "4.26"
+  },
+  {
+    "town": "Inca",
+    "stablishments": 253,
+    "places": 1115,
+    "percentatgePlaces": "1.60",
+    "placesByStablishments": "4.41"
+  },
+  {
+    "town": "Andratx",
+    "stablishments": 220,
+    "places": 954,
+    "percentatgePlaces": "1.37",
+    "placesByStablishments": "4.34"
+  },
+  {
+    "town": "Petra",
+    "stablishments": 174,
+    "places": 807,
+    "percentatgePlaces": "1.16",
+    "placesByStablishments": "4.64"
+  },
+  {
+    "town": "Ses Salines",
+    "stablishments": 222,
+    "places": 762,
+    "percentatgePlaces": "1.09",
+    "placesByStablishments": "3.43"
+  },
+  {
+    "town": "Buger",
+    "stablishments": 151,
+    "places": 754,
+    "percentatgePlaces": "1.08",
+    "placesByStablishments": "4.99"
+  },
+  {
+    "town": "Campanet",
+    "stablishments": 164,
+    "places": 699,
+    "percentatgePlaces": "1.00",
+    "placesByStablishments": "4.26"
+  },
+  {
+    "town": "Sencelles",
+    "stablishments": 114,
+    "places": 625,
+    "percentatgePlaces": "0.90",
+    "placesByStablishments": "5.48"
+  },
+  {
+    "town": "Marratxi",
+    "stablishments": 121,
+    "places": 552,
+    "percentatgePlaces": "0.79",
+    "placesByStablishments": "4.56"
+  },
+  {
+    "town": "Llubi",
+    "stablishments": 108,
+    "places": 456,
+    "percentatgePlaces": "0.65",
+    "placesByStablishments": "4.22"
+  },
+  {
+    "town": "Binissalem",
+    "stablishments": 99,
+    "places": 438,
+    "percentatgePlaces": "0.63",
+    "placesByStablishments": "4.42"
+  },
+  {
+    "town": "Ariany",
+    "stablishments": 103,
+    "places": 442,
+    "percentatgePlaces": "0.63",
+    "placesByStablishments": "4.29"
+  },
+  {
+    "town": "Sineu",
+    "stablishments": 105,
+    "places": 427,
+    "percentatgePlaces": "0.61",
+    "placesByStablishments": "4.07"
+  },
+  {
+    "town": "Algaida",
+    "stablishments": 98,
+    "places": 417,
+    "percentatgePlaces": "0.60",
+    "placesByStablishments": "4.26"
+  },
+  {
+    "town": "Valldemossa",
+    "stablishments": 97,
+    "places": 389,
+    "percentatgePlaces": "0.56",
+    "placesByStablishments": "4.01"
+  },
+  {
+    "town": "Alaro",
+    "stablishments": 91,
+    "places": 379,
+    "percentatgePlaces": "0.54",
+    "placesByStablishments": "4.16"
+  },
+  {
+    "town": "Bunyola",
+    "stablishments": 81,
+    "places": 360,
+    "percentatgePlaces": "0.52",
+    "placesByStablishments": "4.44"
+  },
+  {
+    "town": "Fornalutx",
+    "stablishments": 99,
+    "places": 351,
+    "percentatgePlaces": "0.50",
+    "placesByStablishments": "3.55"
+  },
+  {
+    "town": "Deya",
+    "stablishments": 84,
+    "places": 320,
+    "percentatgePlaces": "0.46",
+    "placesByStablishments": "3.81"
+  },
+  {
+    "town": "Maria de la Salut",
+    "stablishments": 84,
+    "places": 324,
+    "percentatgePlaces": "0.46",
+    "placesByStablishments": "3.86"
+  },
+  {
+    "town": "Porreres",
+    "stablishments": 86,
+    "places": 310,
+    "percentatgePlaces": "0.44",
+    "placesByStablishments": "3.60"
+  },
+  {
+    "town": "Costitx",
+    "stablishments": 63,
+    "places": 268,
+    "percentatgePlaces": "0.38",
+    "placesByStablishments": "4.25"
+  },
+  {
+    "town": "Esporles",
+    "stablishments": 61,
+    "places": 251,
+    "percentatgePlaces": "0.36",
+    "placesByStablishments": "4.11"
+  },
+  {
+    "town": "Lloseta",
+    "stablishments": 56,
+    "places": 244,
+    "percentatgePlaces": "0.35",
+    "placesByStablishments": "4.36"
+  },
+  {
+    "town": "Santa Maria del Cami",
+    "stablishments": 55,
+    "places": 218,
+    "percentatgePlaces": "0.31",
+    "placesByStablishments": "3.96"
+  },
+  {
+    "town": "Banyalbufar",
+    "stablishments": 60,
+    "places": 207,
+    "percentatgePlaces": "0.30",
+    "placesByStablishments": "3.45"
+  },
+  {
+    "town": "Mancor de la Vall",
+    "stablishments": 44,
+    "places": 203,
+    "percentatgePlaces": "0.29",
+    "placesByStablishments": "4.61"
+  },
+  {
+    "town": "Montuiri",
+    "stablishments": 50,
+    "places": 195,
+    "percentatgePlaces": "0.28",
+    "placesByStablishments": "3.90"
+  },
+  {
+    "town": "Sant Joan",
+    "stablishments": 49,
+    "places": 172,
+    "percentatgePlaces": "0.25",
+    "placesByStablishments": "3.51"
+  },
+  {
+    "town": "Lloret de Vistalegre",
+    "stablishments": 53,
+    "places": 168,
+    "percentatgePlaces": "0.24",
+    "placesByStablishments": "3.17"
+  },
+  {
+    "town": "Vilafranc de Bonany",
+    "stablishments": 42,
+    "places": 170,
+    "percentatgePlaces": "0.24",
+    "placesByStablishments": "4.05"
+  },
+  {
+    "town": "Puigpunyent",
+    "stablishments": 38,
+    "places": 143,
+    "percentatgePlaces": "0.21",
+    "placesByStablishments": "3.76"
+  },
+  {
+    "town": "Consell",
+    "stablishments": 24,
+    "places": 109,
+    "percentatgePlaces": "0.16",
+    "placesByStablishments": "4.54"
+  },
+  {
+    "town": "Estellencs",
+    "stablishments": 27,
+    "places": 97,
+    "percentatgePlaces": "0.14",
+    "placesByStablishments": "3.59"
+  },
+  {
+    "town": "Escorca",
+    "stablishments": 24,
+    "places": 96,
+    "percentatgePlaces": "0.14",
+    "placesByStablishments": "4.00"
+  },
+  {
+    "town": "Santa Eugenia",
+    "stablishments": 15,
+    "places": 72,
+    "percentatgePlaces": "0.10",
+    "placesByStablishments": "4.80"
+  },
+  {
+    "town": "undefined",
+    "stablishments": 1,
+    "places": 0,
+    "percentatgePlaces": "0.00",
+    "placesByStablishments": "0.00"
+  }
+]
