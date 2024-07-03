@@ -34,7 +34,7 @@ exports.findAll = (req, res) => {
 
   Property.findAndCountAll({
     where: condition,
-    attributes: ['id', 'hostId', 'hostSince', 'hostName', 'hostLocation','neighburhood','roomType','bedrooms','beds','numberOfReviews', 'availability30','availability60','availability90','availability365','price', 'createdAt','updatedAt'],
+    attributes: ['id', 'hostId', 'hostSince', 'hostName', 'hostLocation','neighburhood','roomType','bedrooms','beds','numberOfReviews', 'availability30','availability60','availability90','availability365','price', 'createdAt','updatedAt','deletedAt'],
     limit,
     offset,
     order: [['createdAt', 'DESC']]
@@ -49,6 +49,7 @@ exports.findAll = (req, res) => {
 
       res.status(200).send(result)
     }).catch(err => {
+      console.log(err)
       res.status(500).send({
         message: err.errors || 'Algún error ha surgido al recuperar los datos.'
       })
