@@ -5,19 +5,19 @@ const Property = sequelize.define('Property',
         type: DataTypes.INTEGER,
         autoIncrement: true,
         primaryKey: true,
-        allowNull: false
+        allowNull: true
     },
     hostId: {
         type: DataTypes.INTEGER,
-        allowNull: false
+        allowNull: true
     },
     hostSince: {
         type: DataTypes.DATE,
-        allowNull: false
+        allowNull: true
     },
     hostName: {
         type: DataTypes.STRING,
-        allowNull: false
+        allowNull: true
     },
     hostLocation: {
         type: DataTypes.STRING,
@@ -25,43 +25,43 @@ const Property = sequelize.define('Property',
     },
     neighburhood: {
         type: DataTypes.STRING,
-        allowNull: false
+        allowNull: true
     },
     roomType: {
         type: DataTypes.STRING,
-        allowNull: false
+        allowNull: true
     },
     bedrooms: {
         type: DataTypes.INTEGER,
-        allowNull: false
+        allowNull: true
     },
     beds: {
         type: DataTypes.INTEGER,
-        allowNull: false
+        allowNull: true
     },
     numberOfReviews: {
         type: DataTypes.INTEGER,
-        allowNull: false
+        allowNull: true
     },
     availability30: {
         type: DataTypes.INTEGER,
-        allowNull: false
+        allowNull: true
     },
     availability60: {
         type: DataTypes.INTEGER,
-        allowNull: false
+        allowNull: true
     },
     availability90: {
         type: DataTypes.INTEGER,
-        allowNull: false
+        allowNull: true
     },
     availability365: {
         type: DataTypes.INTEGER,
-        allowNull: false
+        allowNull: true
     },
     price: {
         type: DataTypes.STRING,
-        allowNull: false
+        allowNull: true
     },
     createdAt: {
         type: DataTypes.DATE

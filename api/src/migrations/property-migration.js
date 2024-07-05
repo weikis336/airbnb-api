@@ -7,19 +7,19 @@ module.exports = {
         type: Sequelize.INTEGER,
         primaryKey: true,
         autoIncrement: true,
-        allowNull: false
+        allowNull: true
       },
       hostId: {
         type: Sequelize.INTEGER,
-        allowNull: false
+        allowNull: true
       },
       hostSince: {
         type: Sequelize.DATE,
-        allowNull: false
+        allowNull: true
       },
       hostName: {
         type: Sequelize.STRING,
-        allowNull: false
+        allowNull: true
       },
       hostLocation: {
         type: Sequelize.STRING,
@@ -27,51 +27,51 @@ module.exports = {
       },
       neighburhood: {
         type: Sequelize.STRING,
-        allowNull: false
+        allowNull: true
       },
       roomType: {
         type: Sequelize.STRING,
-        allowNull: false
+        allowNull: true
       },
       bedrooms: {
         type: Sequelize.INTEGER,
-        allowNull: false
+        allowNull: true
       },
       beds: {
         type: Sequelize.INTEGER,
-        allowNull: false
+        allowNull: true
       },
       numberOfReviews: {
         type: Sequelize.INTEGER,
-        allowNull: false
+        allowNull: true
       },
       availability30: {
         type: Sequelize.INTEGER,
-        allowNull: false
+        allowNull: true
       },
       availability60: {
         type: Sequelize.STRING,
-        allowNull: false
+        allowNull: true
       },
       availability90: {
         type: Sequelize.INTEGER,
-        allowNull: false
+        allowNull: true
       },
       availability365: {
         type: Sequelize.INTEGER,
-        allowNull: false
+        allowNull: true
       },
       price: {
         type: Sequelize.STRING,
-        allowNull: false
+        allowNull: true
       },
       createdAt: {
         type: Sequelize.DATE,
-        allowNull: false
+        allowNull: true
       },
       updatedAt: {
         type: Sequelize.DATE,
-        allowNull: false
+        allowNull: true
       },
       deletedAt: {
         type: Sequelize.DATE
