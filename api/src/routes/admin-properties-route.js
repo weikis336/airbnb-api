@@ -1,7 +1,7 @@
 module.exports = (app) => {
 
     const router = require('express').Router()
-    const controller = require('../controllers/admin/property-controller.js')
+    const controller = require('../controllers/admin/properties-controller.js')
   
     router.post('/', controller.create)
     router.get('/', controller.findAll)

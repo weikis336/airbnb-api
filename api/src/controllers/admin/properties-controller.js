@@ -3,7 +3,8 @@ const Property = sequelizeDb.Property
 const Op = sequelizeDb.Sequelize.Op
 
 exports.create = (req, res) => {
-  Property.create(req.body).then(async data => {
+  console.log(req.body)
+  Property.bulkCreate(req.body).then(async data => {
     res.status(200).send(data)
   }).catch(err => {
     if (err.errors) {
@@ -34,7 +35,7 @@ exports.findAll = (req, res) => {
 
   Property.findAndCountAll({
     where: condition,
-    attributes: ['id', 'hostId', 'hostSince', 'hostName', 'hostLocation','neighburhood','roomType','bedrooms','beds','numberOfReviews', 'availability30','availability60','availability90','availability365','price', 'createdAt','updatedAt','deletedAt'],
+    attributes: ['id', 'hostId', 'hostName', 'hostLocation', 'neighburhood', 'createdAt', 'updatedAt'],
     limit,
     offset,
     order: [['createdAt', 'DESC']]
@@ -49,7 +50,6 @@ exports.findAll = (req, res) => {
 
       res.status(200).send(result)
     }).catch(err => {
-      console.log(err)
       res.status(500).send({
         message: err.errors || 'Algún error ha surgido al recuperar los datos.'
       })
